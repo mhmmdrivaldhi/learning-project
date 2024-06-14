@@ -24,3 +24,5 @@ DB_PASSWORD=
 - Laravel Post Category
 - Laravel Database Seeder " php  artisan make:seeder "
 - Laravel N+1 Problem
+
+-Laravel Breeze
