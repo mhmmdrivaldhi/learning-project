@@ -23,6 +23,8 @@ DB_PASSWORD=
 - Laravel Eloquent Relationship
 - Laravel Post Category
 - Laravel Database Seeder " php  artisan make:seeder "
-- Laravel Eloquent Models
+- Laravel N+1 Problem
+- Laravel Eloquent Api Resources
+- Laravel Eloquent Seriazalation
 
 -Laravel Breeze
