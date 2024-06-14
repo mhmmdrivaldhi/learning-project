@@ -1,0 +1,8 @@
+- About Me -
+
+I am someone who is studying the web developer industry, I am studying :
+
+- Framework tailwind CSS
+- Framework React JS
+- Framework Laravel PHP
+- Database Relation
