@@ -1,0 +1,28 @@
+-- Laravel 11 --
+
+- Creating and configuration Laravel 11 : "composer create-project laravel/laravel example-app"
+- Database And Migration : 
+" 
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
+"
+
+- Laravel blade templating engine 
+- Laravel blade component
+
+- Laravel artisan serve
+- Laravel artisan make:model and eloquent ORM
+- Laravel artisan make:view
+- Laravel artisan make:controller
+- Laravel artisan migrate
+
+- Laravel Eloquent Relationship
+- Laravel Post Category
+- Laravel Database Seeder " php  artisan make:seeder "
+- Laravel N+1 Problem
+
+-Laravel Breeze
