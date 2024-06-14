@@ -25,5 +25,6 @@ DB_PASSWORD=
 - Laravel Database Seeder " php  artisan make:seeder "
 - Laravel N+1 Problem
 - Laravel Eloquent Api Resources
+- Laravel Eloquent Seriazalation
 
 -Laravel Breeze
